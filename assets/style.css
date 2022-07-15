@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-size:x-large;
+}
+.align-center {
+    width: max-content;
+    margin: auto;
+}
+#container {
+    margin-top: 10%;
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px 5px rgba(1,1,1,0.5);
+}
+button {
+    border-radius: 50%;
+    border: solid 0.5px #AAA;
+    width: 3em;
+    height: 3em;
+}
+#currentNumber {
+    margin: 1vw;
+}
